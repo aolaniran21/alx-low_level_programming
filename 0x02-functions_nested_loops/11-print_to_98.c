@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_to_98 - main function
  *
- * Return: Always 0.
+ * @n: number
  */
 void print_to_98(int n)
 {
